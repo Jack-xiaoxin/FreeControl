@@ -1,6 +1,4 @@
-﻿using FreeControl.Utils;
-using Sunny.UI;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Diagnostics;
@@ -12,6 +10,8 @@ using System.Reflection;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using FreeControl.Utils;
+using Sunny.UI;
 
 namespace FreeControl
 {
